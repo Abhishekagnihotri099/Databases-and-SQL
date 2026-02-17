@@ -1,0 +1,54 @@
+1️⃣ 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 (𝐃𝐚𝐲 𝟏-𝟐)
+
+→ Python Programming Fundamentals
+https://lnkd.in/dFzuZtKD 
+→ Building APIs in Python
+https://lnkd.in/df6PDExE 
+
+2️⃣ 𝐂𝐨𝐫𝐞 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 (𝐃𝐚𝐲 𝟑-𝟓)
+
+→ Large Language Models (LLMs) Concepts
+https://lnkd.in/dGb2UYsh 
+→ Introduction to Embeddings
+https://lnkd.in/dzkZ6vvg 
+→ Developing LLM Applications with LangChain
+https://lnkd.in/dGc6dF_y 
+→ Prompt Engineering
+https://lnkd.in/didsxZUZ 
+
+3️⃣ 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (𝐃𝐚𝐲 𝟔-𝟕)
+
+→ Retrieval Augmented Generation (RAG)
+https://lnkd.in/dTbyjwgg 
+→ Introduction to AI Agents
+https://lnkd.in/dTjV28sJ 
+→ Building Scalable Agentic Systems
+https://lnkd.in/dTai6x-c 
+→ LLMOps Concepts
+https://lnkd.in/dV7vV-mu 
+
+4️⃣ 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥)
+
+→ Introduction to Deep Learning with PyTorch
+https://lnkd.in/dDpiRdpp 
+→ Transformer Models with PyTorch
+https://lnkd.in/dsMZk2YY 
+
+You can also focus on upgrading Python, SQL, 
+and Cloud knowledge:
+
+→ SQL - https://lnkd.in/d3XHhJyK 
+→ Python - https://lnkd.in/dDZw5gqE 
+→ Cloud Platforms - https://lnkd.in/d2xvR77m 
+
+Or follow complete career tracks:
+
+→ ML Engineer Track
+https://lnkd.in/dtF4F7Ci 
+→ Data Scientist Track
+https://lnkd.in/dyTY7qsK 
+→ AI Engineer for Data Scientists Track
+https://lnkd.in/d8iP4pyN 
+
+And focus on building Real-World Projects:
+https://lnkd.in/dFiSakmG 
